@@ -1,4 +1,4 @@
-# rootmud_accelerator
+# rootmud-accelerator
 to support the mini projects about autonomous world, for all-chains.
 
 * **[Aptoscraft](https://github.com/rootMUD/aptoscraft)**
